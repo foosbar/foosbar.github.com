@@ -3,6 +3,8 @@
 	<name>update</name>
 	<comment></comment>
 	<projects>
+		<project>mailsnag</project>
+		<project>mailsnag-plugin</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
